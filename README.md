@@ -1,2 +1,2 @@
 ## Work Contributions  
-![Work contributions](https://jandee.vercel.app/kkarke-sc)
+![kkarke-sc's GitHub chart](https://ghchart.rshah.org/kkarke-sc)
