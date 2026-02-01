@@ -18,6 +18,10 @@ Most of my professional work is in private repositories under [@kkarke-sc](https
 
 ---
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ## Technologies & Tools
 
 ### Currently Active (2026)
@@ -25,7 +29,7 @@ Most of my professional work is in private repositories under [@kkarke-sc](https
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Languages:** TypeScript, JavaScript, SQL, HTML/CSS, Python
+**Languages:** TypeScript, JavaScript, SQL, HTML/CSS
 
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Nuxt](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=00DC82)
@@ -61,7 +65,8 @@ Most of my professional work is in private repositories under [@kkarke-sc](https
 
 MongoDB, GraphQL, AWS Amplify, Postmark, Google Maps API, Nitro/H3, Bitbucket Pipelines
 
----
+</td>
+<td width="50%" valign="top">
 
 ## What I'm Working On
 
@@ -71,7 +76,15 @@ Building AI-powered web applications with modern frameworks and cloud infrastruc
 
 Full-stack development with Vue.js/Nuxt and Node.js • AI integrations (voice agents, conversational AI) • Cloud infrastructure and DevOps (AWS, Docker, GitHub Actions) • E2E testing and quality assurance • Enterprise application maintenance and feature development
 
+</td>
+</tr>
+</table>
+
 ---
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ## Education
 
@@ -79,7 +92,8 @@ Full-stack development with Vue.js/Nuxt and Node.js • AI integrations (voice a
 
 **Cornell University** - Project Management Certificate (2021)
 
----
+</td>
+<td width="50%" valign="top">
 
 ## How to Reach Me
 
@@ -90,5 +104,9 @@ Full-stack development with Vue.js/Nuxt and Node.js • AI integrations (voice a
 **Personal GitHub:** [@kk95](https://github.com/kk95)
 
 **Work GitHub:** [@kkarke-sc](https://github.com/kkarke-sc)
+
+</td>
+</tr>
+</table>
 
 </div>
