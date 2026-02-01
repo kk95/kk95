@@ -1,4 +1,6 @@
-# Hi, I'm Kshitij "KK" Karke 👋
+<div align="center">
+
+# Hi, I'm Kshitij "KK" Karke
 
 **Software Engineer** | 6+ Years Experience | Building AI-Powered Solutions
 
@@ -8,7 +10,7 @@
 
 ---
 
-## 💼 Work Contributions
+## Work Contributions
 
 Most of my professional work is in private repositories under [@kkarke-sc](https://github.com/kkarke-sc).
 
@@ -16,7 +18,7 @@ Most of my professional work is in private repositories under [@kkarke-sc](https
 
 ---
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 ### Currently Active (2026)
 
@@ -46,11 +48,15 @@ Most of my professional work is in private repositories under [@kkarke-sc](https
 
 ### Past Experience
 
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&color=gray)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white&color=gray)
+![AWS Amplify](https://img.shields.io/badge/AWS_Amplify-FF9900?style=for-the-badge&logo=awsamplify&logoColor=white&color=gray)
+
 MongoDB, GraphQL, AWS Amplify, Postmark, Google Maps API, Nitro/H3, Bitbucket Pipelines
 
 ---
 
-## 🚀 What I'm Working On
+## What I'm Working On
 
 Building AI-powered web applications with modern frameworks and cloud infrastructure. Current focus areas:
 
@@ -62,7 +68,7 @@ Building AI-powered web applications with modern frameworks and cloud infrastruc
 
 ---
 
-## 📚 Education
+## Education
 
 **UMass Lowell** - B.S. Computer Science (2018)
 
@@ -70,9 +76,14 @@ Building AI-powered web applications with modern frameworks and cloud infrastruc
 
 ---
 
-## 📫 How to Reach Me
+## How to Reach Me
 
-- **Email:** [kshitijkarke@gmail.com](mailto:kshitijkarke@gmail.com)
-- **LinkedIn:** [linkedin.com/in/kshitij-karke](https://linkedin.com/in/kshitij-karke)
-- **Personal GitHub:** [@kk95](https://github.com/kk95)
-- **Work GitHub:** [@kkarke-sc](https://github.com/kkarke-sc)
+**Email:** [kshitijkarke@gmail.com](mailto:kshitijkarke@gmail.com)
+
+**LinkedIn:** [linkedin.com/in/kshitij-karke](https://linkedin.com/in/kshitij-karke)
+
+**Personal GitHub:** [@kk95](https://github.com/kk95)
+
+**Work GitHub:** [@kkarke-sc](https://github.com/kkarke-sc)
+
+</div>
