@@ -76,15 +76,7 @@ Building AI-powered web applications with modern frameworks and cloud infrastruc
 
 Full-stack development with Vue.js/Nuxt and Node.js • AI integrations (voice agents, conversational AI) • Cloud infrastructure and DevOps (AWS, Docker, GitHub Actions) • E2E testing and quality assurance • Enterprise application maintenance and feature development
 
-</td>
-</tr>
-</table>
-
 ---
-
-<table>
-<tr>
-<td width="50%" valign="top">
 
 ## Education
 
@@ -92,8 +84,7 @@ Full-stack development with Vue.js/Nuxt and Node.js • AI integrations (voice a
 
 **Cornell University** - Project Management Certificate (2021)
 
-</td>
-<td width="50%" valign="top">
+---
 
 ## How to Reach Me
 
