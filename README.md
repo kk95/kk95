@@ -24,23 +24,30 @@ Most of my professional work is in private repositories under [@kkarke-sc](https
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Languages:** TypeScript, JavaScript, SQL, HTML/CSS, Python
+
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Nuxt](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=00DC82)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 
 **Frontend:** Vue 3 (Composition API), Nuxt 4, Tailwind CSS 4, PrimeVue Volt, Pinia
 
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
 **Backend:** Node.js, Express, REST APIs, TypeScript
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Databases:** PostgreSQL, MySQL
 
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 **Cloud/DevOps:** AWS (Cognito, ECS/Fargate, RDS, S3), Docker, GitHub Actions
+
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 
 **Testing:** Playwright (E2E), Vitest (Unit)
 
@@ -58,13 +65,11 @@ MongoDB, GraphQL, AWS Amplify, Postmark, Google Maps API, Nitro/H3, Bitbucket Pi
 
 ## What I'm Working On
 
-Building AI-powered web applications with modern frameworks and cloud infrastructure. Current focus areas:
+Building AI-powered web applications with modern frameworks and cloud infrastructure.
 
-- Full-stack development with Vue.js/Nuxt and Node.js
-- AI integrations (voice agents, conversational AI)
-- Cloud infrastructure and DevOps (AWS, Docker, GitHub Actions)
-- E2E testing and quality assurance
-- Enterprise application maintenance and feature development
+**Current focus areas:**
+
+Full-stack development with Vue.js/Nuxt and Node.js • AI integrations (voice agents, conversational AI) • Cloud infrastructure and DevOps (AWS, Docker, GitHub Actions) • E2E testing and quality assurance • Enterprise application maintenance and feature development
 
 ---
 
