@@ -4,6 +4,7 @@
 
 **Software Engineer** | 6+ Years Experience | Building AI-Powered Solutions
 
+[![Website](https://img.shields.io/badge/Website-kk95.github.io-FFD84A?labelColor=0e0f13)](https://kk95.github.io)
 [![Email](https://img.shields.io/badge/Email-kshitijkarke%40gmail.com-blue)](mailto:kshitijkarke@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kshitij--karke-0077B5?logo=linkedin)](https://linkedin.com/in/kshitij-karke)
 [![GitHub Work](https://img.shields.io/badge/GitHub-kkarke--sc-181717?logo=github)](https://github.com/kkarke-sc)
@@ -15,6 +16,8 @@
 Most of my professional work is in private repositories under [@kkarke-sc](https://github.com/kkarke-sc).
 
 ![kkarke-sc contributions](https://ghchart.rshah.org/kkarke-sc)
+
+For the same work split by project, see [kk95.github.io](https://kk95.github.io/#contributions).
 
 ---
 
